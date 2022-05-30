@@ -7,5 +7,4 @@ This is my introductory technical discussion
 * two 
 * three
 
-### will this be the third heading format, lets see
 
